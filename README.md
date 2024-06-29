@@ -1,5 +1,7 @@
 # supabase-sveltekit-demo
 
+A basic demo showcasing Supabase + Sveltekit + GitHub OAuth
+
 https://supabase-sveltekit-demo-ryansobol.vercel.app/
 
 ## Developing
